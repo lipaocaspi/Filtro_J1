@@ -24,3 +24,4 @@ def crearFormato(blockbuster : dict):
 
 def listarFormatos():
     print(formatos)
+    os.system("pause")

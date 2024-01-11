@@ -24,3 +24,4 @@ def crearGenero(blockbuster : dict):
 
 def listarGeneros():
     print(generos)
+    os.system("pause")

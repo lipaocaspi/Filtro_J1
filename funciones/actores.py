@@ -24,3 +24,4 @@ def crearActor(blockbuster : dict):
 
 def listarActores():
     print(actores)
+    os.system("pause")
